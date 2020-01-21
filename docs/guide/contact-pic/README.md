@@ -1,44 +1,45 @@
-# Weekly Meeting 2020/01/20
-Event tracking :
-- Netcore presentation
-- Engagement 
-- S&D not take PM, only business req
-- SSL issue, 6.0.5 can't login if not update, should have force update
-- Powerserve requirement incoming, engineer should inform pak Wawan & Pramod if there is any new info
-- Dicky jakies auto renewal will be implemented, will be tested by CE , problem with HOOQ
-- Jeffrey : already got jira project admin, pak Aneesh have confluence admin
-- Sooraj : windmill repository waiting access
-- Martino : UAT for auto renewal, BU will nego with HOOQ, already have jira but not use it frequently since ken no access
-- Maria : IOT app
-- Fares : helping with S&D, building templates, scattered information, building portfolio Sinarmas Digital
-Need to build own profile with name : problem + solutions
-- Bijak : WOW project, aggregator jakies, & gamification
-- Eka : disable auto-renew
-- Tony : provided access bangalore team for servers, s&d security discussion
-- Gilang : mysf OCR
-- david : testing 
-- aneesh : need ocr to be done from gilang, bijak, and dicky, 
-security issue (martino, bijak, ken)
-dicky
+# Contact PIC
 
-- halga : S&D will use 6D gitlab
-
-
-# IT
-SAP : Donna
-BPM : Odi / Prasojo
-|Item                           |Business User              |IT PIC         |
-|----                           |----                       |----           |
-|SAP - Finance                  |multiple                   |donna.natalisa |
-|BPM                            |multiple | odi.ariyanto / prasojo|
-|SMAS                           |HR - bagus.siswanto | odi.ariyanto / daniel.pangaribuan|
+## System PIC
+|Item                           |Business Owner         |IT PIC|
+|----                           |----                   |----|
+|SAP                            |multiple               |donna.natalisa |
+|DWH / Cognos / Greenplum       |multiple               |soni.salam|
+|Zsmart                         |multiple               |daud.pulung / didiet.ardhi|
+|BPM                            |multiple               | odi.ariyanto / prasojo|
+|SMAS                           |HR - bagus.siswanto    | odi.ariyanto / daniel.pangaribuan|
 |Gaspol                         |Gallery - lieta.andini | odi.ariyanto / iqbal.hamzah|
-|Performance Management         |HR - prasetyo.kurniawan | odi.ariyanto / andi.sufyandi |
-|SRIS - Danamas                 |SIS - lenny.shinta |agus.saktiyono|
+|Performance Management         |HR - prasetyo.kurniawan| odi.ariyanto / andi.sufyandi |
+|Office & Application Portal    |multiple               | odi.ariyanto / andi.sufyandi |
+|SRIS / STS                     |SIS - lenny.shinta     |marcellinus.tanua / thomas.wiradikusuma|
+|SRIS - Danamas                 |SIS - lenny.shinta     |agus.saktiyono|
+|Smartkoin                      |Dist - andrianto.herlambang |febriarto.adi / thomas.wiradikusuma|
+|SRIS / STS                     |SIS - lenny.shinta     |marcellinus.tanua / thomas.wiradikusuma|
+|Siteforge                      |Network                |vikas.kukreja|
+|TIBCO                          |multiple               |jerry.luntung|
+|MFino                          |multiple               |budianto / utis.sutisna|
+|Queuing                        |Gallery - rita.kartini |khamdan.ngazis / nendra.atmaji|
+|Servicedesk                    |IT                     |hendra.riyadi|
 
-# HR
-|Item                           |Business User              |IT PIC         |
-|----                           |----                       |----           |
-|Payroll                        |multiple                   |donna.natalisa |
-|BPM                            |multiple | odi.ariyanto / prasojo|
-|SMAS                           |HR - bagus.siswanto | odi.ariyanto / daniel.pangaribuan|
+
+## IT Access Request
+|Item                           |IT PIC         |
+|----                           |----           |
+|ZSmart (CVBS/DWH/IN(VC)/NGCC)|IT Security <br> IT Operation Center|
+|Zsmart (Settlement)|IT Security <br> IT Dev - CRM|
+|Zsmart (Cognos)|IT Operation Center|
+|Zsmart (Testbed) |IT Operation Center <br> IT Dev - CRM|
+|MFino|IT Operation - Mfino <br> Sales team|
+|SDP|IT Dev - SDP|
+|Root password / Platform User|IT Platform Support|
+|Internet (Regular Access)|IT Admin Infra|
+|Exception Internet Access (Social Media, Online Shopping, etc)|IT Admin Infra <br> IT Security|
+|USB|IT Admin Infra|
+|Share folder|IT Admin Infra|
+|Group Email|IT Admin Infra|
+|VPN|IT Admin Infra|
+|Email|IT Admin Infra|
+|SAP|IT Security <br> IT Dev - SAP|
+|Password admin - Local|IT Security <br> IT Admin Infra|
+|Database|IT Operation - Database|
+|Jira / Confluence|Adhitia Herawan|

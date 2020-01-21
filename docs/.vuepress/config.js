@@ -33,6 +33,7 @@ module.exports = {
         children: [
           ['/guide/syntax/','Syntax'],
           ['/guide/deploy/','Deploy'],
+          ['/guide/contact-pic/','Contact PIC'],
         ]
       }
     ]

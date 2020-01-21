@@ -1,4 +1,4 @@
-# GIT - VUE :
+## GIT - VUE :
 git remote show vue
 
 cd D:\dev\documentation\Sinarmas Digital  
@@ -11,7 +11,7 @@ git commit -m "Messages"
 git push vue master  
 
 
-# GIT - PAGES :
+## GIT - PAGES :
 -- build vue --
 
 git remote show origin
