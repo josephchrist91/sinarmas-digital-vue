@@ -1,7 +1,7 @@
 // .vuepress/config.js
 module.exports = {
   title: 'Sinarmas Digital',
-  description: 'Welcome to our documentation space!',
+  description: 'Software Development Group',
   base: '/sinarmas-digital/',
   markdown: {
     lineNumbers: true
@@ -10,30 +10,32 @@ module.exports = {
     smoothScroll : true,
     //displayAllHeaders: true, // Default: false
     sidebar: [
-      ['/home/', 'Home'],
+      ['/pages/_home/', 'Home'],
       { //GROUP 1
         title: 'Projects',   // required
         //path: '/home/',      // optional, which should be a absolute path.
         //collapsable: false, // optional, defaults to true
         //sidebarDepth: 2,    // optional, defaults to 1
         children: [
-          ['/project/smartnet/','Engagement App'],
-          ['/project/snd/','S&D'],
-          ['/project/null/','MySF'],
-          ['/project/null/','Jakarta Talkies'],
-          ['/project/null/','Switch'],
-          ['/project/null/','Gamification']
+          ['/pages/engagement/','Engagement App'],
+          ['/pages/enterprise/','Enterprise B2B'],
+          ['/pages/gamification/','Gamification'],
+          ['/pages/jakies/','Jakarta Talkies'],
+          ['/pages/mysf/','MySF'],          
+          ['/pages/region/','Regional Finance Collection'],          
+          ['/pages/snd/','S&D'],
+          ['/pages/windmill/','Windmill']
         ]
       },
       { //GROUP 2
-        title: 'Guides',   // required
+        title: 'Notes',   // required
         //path: '/home/',      // optional, which should be a absolute path.
         //collapsable: false, // optional, defaults to true
         //sidebarDepth: 2,    // optional, defaults to 1
         children: [
-          ['/guide/syntax/','Syntax'],
-          ['/guide/deploy/','Deploy'],
-          ['/guide/contact-pic/','Contact PIC'],
+          ['/pages/_contact/','Contact PIC'],
+          ['/pages/_weekly/','Weekly Meeting'],
+         // ['/pages/_syntax/','Syntax'],
         ]
       }
     ]
