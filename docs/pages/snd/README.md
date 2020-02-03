@@ -1,5 +1,11 @@
 # Sales and Distribution
 
+inventory
+hierarchy
+voucher
+eload
+kms (if possible)
+
 ## Weekly progress
 :::warning Jan 2020
 

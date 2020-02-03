@@ -3,6 +3,16 @@ module.exports = {
   title: 'Sinarmas Digital',
   description: 'Software Development Group',
   base: '/sinarmas-digital/',
+  plugins: [
+    [
+      "container",
+      {
+        type: "spoiler",
+        before: info => "<details><summary>" + info + "</summary>\n",
+        after: "</details>\n"
+      }
+    ]
+  ],
   markdown: {
     lineNumbers: true
   },

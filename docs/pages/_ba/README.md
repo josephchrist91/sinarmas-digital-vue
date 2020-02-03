@@ -3,9 +3,7 @@
 
 
 ### Stakeholder
-1. RFC : Dian, Afit
-2. RBOM : Angela, Dede
-3. 
+1. 
 
 ### Scenario (List of functions user want to do)
 

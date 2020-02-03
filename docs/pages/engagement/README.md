@@ -1,16 +1,17 @@
 # ENGAGEMENT APP
-
-## Project Summary
+> A centralized app for every employee to support his/her daily work life.
+> First phase will focus on colleague recognition/kudos features.
 
 ::: warning Current state :
 ---
-Waiting for user to finalize scenarios for 1st phase.
-
-Link for draft BRD (collab with business user to build the doc) : [Google Doc](https://docs.google.com/document/d/1uLUyEeKiCPGFswrEe09oHEgVIAYlJb5hW30Hh6SqJZw/edit#)  
-Link for draft user journey : [Google Slide](https://docs.google.com/presentation/d/19LxkGoz1xm09TAF4Bw9Fc19Xxj4keRJbxpplnL6-wjw/edit?usp=sharing)
+Waiting for user to finalize scenarios for 1st phase, will be completed on Feb W1.
 :::
 
-### Project Milestones : 
+## Related Documents
+> Link for draft BRD (collab with business user to build the doc) : [Google Doc](https://docs.google.com/document/d/1uLUyEeKiCPGFswrEe09oHEgVIAYlJb5hW30Hh6SqJZw/edit#)  
+> Link for draft user journey : [Google Slide](https://docs.google.com/presentation/d/19LxkGoz1xm09TAF4Bw9Fc19Xxj4keRJbxpplnL6-wjw/edit?usp=sharing)
+
+## Milestones
 |Date|Milestones|PIC|
 |---|---|---|
 |2020-01-23|Followup discussion for Engagement App features|Joseph<br>Ayu<br>Ruth<br>Martino<br>Jeffrey|
@@ -26,7 +27,7 @@ Link for draft user journey : [Google Slide](https://docs.google.com/presentatio
 To calculate the budget and headcount, we need to analyze the project features, efforts, and deadline. From there we can know how many headcounts needed, and calculate the budget.
 :::
 
-### Project Overview and Background : 
+## Overview and Background
 > #### #1 Why do we need an employee portal?
 
 As someone who grew up in this digitized age, there are two things that are important to our productivity :
@@ -83,7 +84,7 @@ If every objectives can save 1%, then in total there will be 4 x Rp360,000,000 =
 
 :::
 
-### Project Dependencies :
+## Dependencies
 - Approval from IT security to open mobile app accessibility.
 
 External sites :
@@ -113,8 +114,6 @@ External sites :
 ## Business Requirement
 
 ## Key Assumption and Constraint
-
-## Related Documents
 
 ## Glossary of Terms
 

@@ -1,5 +1,82 @@
-## 2020/01/27
+## 2020/02/03
 
+::: tip Updates
+---
+Darmawan :
+- Delayed mySF release due to netcore & appsflyer issue for sending MDN data to third-party in the cloud. We are planning to hash the email and MDN first before sending to third-party.
+- Need to make T&C to inform that we are going to use their data to improve the app
+
+Joseph :
+- Engagement app still waiting for user to finalize the user scenario, last week they are busy with other things, so they will finish it on this week.
+- New request from finance : region collection reconciliation, to make sure every transaction in gallery (zsmart) reported correctly to finance (collection) and accounting (SAP)
+ - need to reconfirm to user why is this not included in S&D?
+
+Jeffrey :
+- BCA VA requirement is making progress, working on user interaction, and inbox capability
+- Standardizing business requirement process
+
+Halga :
+- Ongoing HLD review, from total 10 HLD : 
+    - 2 already printed ongoing for sign-off, 
+    - 6 already discussed but will be revised by vendor, to signed off this week, 
+    - 2 will be reviewed this week
+- Need to allocate server resource for S&D production since BSS is also looking for resource.
+- Finalizing architecture with Jegadeesh so we can quickly allocate the resource
+
+Pramod : 
+- mySF iOS version has been released
+- There is flow change on Powerserve
+- Received scratch and win BRD
+
+Sooraj :
+- Need to contact someone to get Windmill repo access for Setyo
+
+Sulis :
+- Jakies done development api for hooq, cannot connect from inside server to outside network, will be helped by Tony
+
+Dicky :
+- Ask for production key for jakies
+
+Martino :
+- Only Hooq UAT is not done due to production key
+- MySF transfer knowledge, Ken, Bijak & Gilang learning from Ferdinand, next enhancement for the app better give the task to bijak / ken with ferdinand as backup
+- Transformation from Azure to Gitlab
+
+David :
+- working on windmill test issues, some already closed
+
+Eka :
+- SSL waiting for pak Satriyo approval to force update today for ios and android
+- CI/CD knowledge sharing
+
+Ken :
+- Transfer knowledge from Ferdinand for API gateway and backend
+- Jakies handle changes from Hooq, do provisioning for hooq
+
+Bijak :
+- Transfer knowledge for mySF 
+
+Gilang :
+- Working on OCR hyperverge, ios need to use OCR due to esim, but it is not working in iOS on any scenario
+
+Maria :
+- Sounak ask for some research, will send the result
+
+Setyo :
+- Working on getting the repository access
+
+Antony :
+- VPN S&D 6d ok, 
+- Ask for internet access to install things on server
+- Ask access for Ken & Bijak for mySF repo
+- Devops should be involved from beginning
+
+Aneesh :
+- Hyperverge enabled their Alibaba cloud, we must get confirmation not to send any information out of Indonesia
+- Make sure where the image processing happens, should be in the cloud in indonesia (alicloud)
+:::
+
+## 2020/01/27
 ::: tip Updates
 ---
 Darmawan (Coordinator): 
@@ -41,7 +118,9 @@ Joseph :
 :::
 
 ## 2020/01/20
-::: tip Coordinator : Aneesh
+::: tip Updates
+---
+Coordinator : Aneesh
 - Darmawan : Ongoing event tracking for mySF, pak Aneesh asks to demonstrate Netcore on next meeting
 - Joseph : S&D still reviewing HLD, done for Hierarchy, ongoing with Inventory, Product Catalogue, and KMS. Engagement app still under discussion, business user wanted to prioritize recognition system.
 - SMD will not take S&D project for Project Management, only on business requirement role
