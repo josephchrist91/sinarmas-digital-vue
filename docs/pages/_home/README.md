@@ -3,6 +3,10 @@
 > This documentation space originally used for local notes for BA and to backup documentation hosted in Confluence, in case there is server down or other problem when the documentation is needed.  
 > **_This space can be accessed from web or mobile browser with any internet connections._**
 
+::: tip For original documentation, kindly check on our Confluence space on below link.  
+[Confluence Doc](https://confluence.smartfren.com/pages/viewpage.action?pageId=2459721)
+:::
+
 ### Team members
 |Team|Members|
 |----|----|

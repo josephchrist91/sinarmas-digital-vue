@@ -9,21 +9,32 @@ Finalizing BRD together with user, target complete February W1.
 :::
 
 ## Related Documents
-> BRD : [Google Docs](https://docs.google.com/document/d/11iHWwTe5azqIDuFpNl7qNWsLF2VSXBE3P5CXV5jzH_s/edit?usp=sharing).
+> Draft BRD : [Google Docs](https://docs.google.com/document/d/11iHWwTe5azqIDuFpNl7qNWsLF2VSXBE3P5CXV5jzH_s/edit?usp=sharing).  
+> Draft use cases : [Google Sheet](https://docs.google.com/spreadsheets/d/1H7Ns_D2M6B0tKShZfO9G3_pEuB_PPvO0G6h0D8Lusgc/edit?usp=sharing)
 
 ## Milestones
-- 2020/01/30 : Detailed daily task survey with region collection end user
-- 2020/01/29 : Discussion for high-level features
-- 2020/01/28 : Kick-off project Automation for Regional Finance Collection
+|Date|Milestones|PIC|
+|---|---|---|
+|2020-01-30|Detailed daily task survey with region collection end user|Joseph<br>Dede<br>Afit|
+|2020-01-29|Discussion for high-level features|Joseph<br>Dede<br>Afit<br>Dian<br>Iwan<br>Amira|
+|2020-01-28|Kick-off project Automation for Regional Finance Collection|Joseph<br>Dian<br>Afit|
 
 ---------------
 
 ## Overview and Background
+
+Why we didn't include this in S&D project?
+- This is for gallery selling process while S&D is for outlet and distributor.
+- S&D doesn't have sales incoming record, the only incoming done in S&D is when distributor order items from us.
+- Gallery modules are taken out from S&D, and moved to BSS project (new Zsmart)
+- Vendor (6D) has also confirmed (02/04) that this is out of their scope
+
 Painpoints :
 - Already cut some manpower but workload still the same (MyRep migration)
 - Manual posting to SAP
 - Manual reconciliation process
 - 
+
 
 Benefit :
 - Reduce fraud

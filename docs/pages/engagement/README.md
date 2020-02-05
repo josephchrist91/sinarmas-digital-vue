@@ -4,7 +4,7 @@
 
 ::: warning Current state :
 ---
-Waiting for user to finalize scenarios for 1st phase, will be completed on Feb W1.
+Working on UI/UX, user journey sent to Fares for review.
 :::
 
 ## Related Documents
@@ -14,18 +14,16 @@ Waiting for user to finalize scenarios for 1st phase, will be completed on Feb W
 ## Milestones
 |Date|Milestones|PIC|
 |---|---|---|
+|2020-02-04|Scenario finalized|Joseph<br>Ruth<br>Ayu|
 |2020-01-23|Followup discussion for Engagement App features|Joseph<br>Ayu<br>Ruth<br>Martino<br>Jeffrey|
 |2020-01-14|Brief discussion about spot recognition|Joseph<br>Ayu<br>Ruth|
 |2020-01-09|Discussion about Engagement App|Joseph<br>Sounak<br>Fares<br>Ayu<br>Ruth|
 |2020-01-06|List down functions and priorities|Joseph|
 |2019-12-31|Initial meeting with business user|Nadia|
 
-::: warning BA note
-2020/01/21, I met bu Ayu in Sabang, she asked me why did pak Sounak ask her about budget and headcount for the project
 
-2020/01/22, Pak Sounak told me that budgeting and headcount is only for project proposal for pak FOW, we will for sure use internal engineer for the project. 
-To calculate the budget and headcount, we need to analyze the project features, efforts, and deadline. From there we can know how many headcounts needed, and calculate the budget.
-:::
+<details>
+<summary>Draft BRD</summary>
 
 ## Overview and Background
 > #### #1 Why do we need an employee portal?
@@ -124,3 +122,6 @@ External sites :
 
 ### Appendix B - Proposed Delivery Flow
 ![Proposed delivery flow](./flow.png)
+
+
+</details>
